@@ -1,0 +1,1011 @@
+fileFormatVersion: 2
+guid: d09f89912133d5b43854173aade18223
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -7354658041426211710
+    second: Yusuke2_Agent
+  - first:
+      74: 2727890599675219658
+    second: Y_Left
+  - first:
+      74: -7906059778740102463
+    second: Y_Right
+  - first:
+      74: -407196080931181981
+    second: YL_speed1
+  - first:
+      74: 3374251670287548062
+    second: YL_speed2
+  - first:
+      74: 4393784114177772126
+    second: YR_speed1
+  - first:
+      74: -4623937865043293943
+    second: YR_speed2
+  - first:
+      74: -7720626590260486289
+    second: YL_middle1
+  - first:
+      74: -7845295859619523408
+    second: YL_middle2
+  - first:
+      74: -2083638636375590126
+    second: YR_middle1
+  - first:
+      74: -2359047380402679451
+    second: YR_middle2
+  - first:
+      74: -1319192303397649569
+    second: YL_middle_middle1
+  - first:
+      74: 1646984806679136145
+    second: YL_middle_middle2
+  - first:
+      74: -896711324958523891
+    second: YR_middle_middle1
+  - first:
+      74: -4699593336575245222
+    second: YR_middle_middle2
+  - first:
+      74: -5776279776773745983
+    second: YL_middle3_1
+  - first:
+      74: -3446929168361060268
+    second: YL_middle3_2
+  - first:
+      74: 5112407780077790148
+    second: YR_middle3_1
+  - first:
+      74: 8624964670704564986
+    second: YR_middle3_2
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Yusuke2_Agent
+      takeName: Yusuke2_Agent
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1999
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Y_Left
+      takeName: Yusuke2_Agent
+      internalID: 0
+      firstFrame: 1270
+      lastFrame: 1473
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Y_Right
+      takeName: Yusuke2_Agent
+      internalID: 0
+      firstFrame: 955
+      lastFrame: 1158
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: YL_speed1
+      takeName: Yusuke2_Agent
+      internalID: 0
+      firstFrame: 1270
+      lastFrame: 1345
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: YL_speed2
+      takeName: Yusuke2_Agent
+      internalID: 0
+      firstFrame: 1345
+      lastFrame: 1485
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: YR_speed1
+      takeName: Yusuke2_Agent
+      internalID: 0
+      firstFrame: 955
+      lastFrame: 1018
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: YR_speed2
+      takeName: Yusuke2_Agent
+      internalID: 0
+      firstFrame: 1018
+      lastFrame: 1146
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: YL_middle1
+      takeName: Yusuke2_Agent
+      internalID: 0
+      firstFrame: 1270
+      lastFrame: 1337
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: YL_middle2
+      takeName: Yusuke2_Agent
+      internalID: 0
+      firstFrame: 1337
+      lastFrame: 1491
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: YR_middle1
+      takeName: Yusuke2_Agent
+      internalID: 0
+      firstFrame: 955
+      lastFrame: 1004
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: YR_middle2
+      takeName: Yusuke2_Agent
+      internalID: 0
+      firstFrame: 1004
+      lastFrame: 1140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: YL_middle_middle1
+      takeName: Yusuke2_Agent
+      internalID: 0
+      firstFrame: 1270
+      lastFrame: 1341
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: YL_middle_middle2
+      takeName: Yusuke2_Agent
+      internalID: 0
+      firstFrame: 1341
+      lastFrame: 1488
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: YR_middle_middle1
+      takeName: Yusuke2_Agent
+      internalID: 0
+      firstFrame: 955
+      lastFrame: 1011
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: YR_middle_middle2
+      takeName: Yusuke2_Agent
+      internalID: 0
+      firstFrame: 1011
+      lastFrame: 1143
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: YL_middle3_1
+      takeName: Yusuke2_Agent
+      internalID: 0
+      firstFrame: 1270
+      lastFrame: 1343
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: YL_middle3_2
+      takeName: Yusuke2_Agent
+      internalID: 0
+      firstFrame: 1343
+      lastFrame: 1486.5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: YR_middle3_1
+      takeName: Yusuke2_Agent
+      internalID: 0
+      firstFrame: 955
+      lastFrame: 1014.50006
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: YR_middle3_2
+      takeName: Yusuke2_Agent
+      internalID: 0
+      firstFrame: 1014.50006
+      lastFrame: 1144.5
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 1
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Yusuke2:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Yusuke2:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Yusuke2:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Yusuke2:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Yusuke2:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Yusuke2:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Yusuke2:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Yusuke2:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Yusuke2:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Yusuke2:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Yusuke2:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Yusuke2:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Yusuke2:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Yusuke2:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Yusuke2:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Yusuke2:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Yusuke2:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Yusuke2:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Yusuke2:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Yusuke2:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Yusuke2:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Yusuke2:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Yusuke2_Agent(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -4.3297806e-17, y: 0.7071068, z: 0.7071068, w: -4.3297806e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Yusuke2:Reference
+      parentName: Yusuke2_Agent(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Yusuke2:Hips
+      parentName: Yusuke2:Reference
+      position: {x: -0.00050069403, y: 0.13389486, z: 0.99405086}
+      rotation: {x: -0.00044336903, y: -0.005890904, z: 0.01672919, w: 0.99984264}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Yusuke2:Spine
+      parentName: Yusuke2:Hips
+      position: {x: 0.002768788, y: -0.0032185097, z: 0.1013006}
+      rotation: {x: 6.0184106e-18, y: 1.735037e-18, z: -0.019017331, w: 0.99981916}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Yusuke2:Spine1
+      parentName: Yusuke2:Spine
+      position: {x: -0, y: -2.842171e-17, z: 0.11338999}
+      rotation: {x: -9.215723e-19, y: -2.6020852e-18, z: -5.2041704e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Yusuke2:Spine2
+      parentName: Yusuke2:Spine1
+      position: {x: -5.684342e-17, y: 0, z: 0.1322883}
+      rotation: {x: 5.7462715e-18, y: -8.673617e-19, z: -2.0599843e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Yusuke2:Neck
+      parentName: Yusuke2:Spine2
+      position: {x: -2.842171e-17, y: 1.4210849e-17, z: 0.1322883}
+      rotation: {x: -1.4636732e-18, y: 8.673617e-19, z: -2.0599843e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Yusuke2:Head
+      parentName: Yusuke2:Neck
+      position: {x: 0.00381874, y: 0.06889183, z: 0.1325486}
+      rotation: {x: -0.08653116, y: -0.11494089, z: -0.3190276, w: 0.9367616}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Yusuke2:LeftShoulder
+      parentName: Yusuke2:Spine2
+      position: {x: 0.02245413, y: -0.021491671, z: 0.100483395}
+      rotation: {x: -0.047263004, y: -0.057207, z: -0.011588857, w: 0.99717563}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Yusuke2:LeftArm
+      parentName: Yusuke2:LeftShoulder
+      position: {x: 0.1346594, y: 2.842171e-17, z: 9.094947e-16}
+      rotation: {x: 0.29672328, y: 0.079625845, z: 0.034535136, w: 0.9510112}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Yusuke2:LeftForeArm
+      parentName: Yusuke2:LeftArm
+      position: {x: 0.311504, y: -4.5474737e-16, z: 0}
+      rotation: {x: 0.00068062526, y: -0.0022675316, z: 0.0006552244, w: 0.99999696}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Yusuke2:LeftForeArmRoll
+      parentName: Yusuke2:LeftForeArm
+      position: {x: 0.1214159, y: 4.5474737e-16, z: -4.5474737e-16}
+      rotation: {x: 2.6020852e-17, y: -1.0191501e-17, z: 2.6020852e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Yusuke2:LeftHand
+      parentName: Yusuke2:LeftForeArmRoll
+      position: {x: 0.1214159, y: 0, z: 4.5474737e-16}
+      rotation: {x: -0.053365678, y: -0.2543623, z: 0.13717052, w: 0.95584315}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Yusuke2:RightShoulder
+      parentName: Yusuke2:Spine2
+      position: {x: -0.02122828, y: -0.02014206, z: 0.1013745}
+      rotation: {x: -0.047667183, y: 0.05691909, z: -0.017065706, w: 0.9970942}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Yusuke2:RightArm
+      parentName: Yusuke2:RightShoulder
+      position: {x: -0.12953189, y: -1.1368679e-16, z: 9.094947e-16}
+      rotation: {x: 0.20500618, y: -0.08594499, z: 0.017089246, w: 0.9748302}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Yusuke2:RightForeArm
+      parentName: Yusuke2:RightArm
+      position: {x: -0.31570047, y: -2.2737369e-16, z: 0}
+      rotation: {x: 0.0049893092, y: 0.009845289, z: -0.023624027, w: 0.99965996}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Yusuke2:RightForeArmRoll
+      parentName: Yusuke2:RightForeArm
+      position: {x: -0.12835631, y: 2.2737369e-16, z: -6.821211e-16}
+      rotation: {x: 5.2041704e-18, y: -1.3877785e-17, z: 1.3877785e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Yusuke2:RightHand
+      parentName: Yusuke2:RightForeArmRoll
+      position: {x: -0.12835631, y: -2.2737369e-16, z: 2.2737369e-16}
+      rotation: {x: -0.1257799, y: 0.29421642, z: -0.1677271, w: 0.93246114}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Yusuke2:LeftUpLeg
+      parentName: Yusuke2:Hips
+      position: {x: 0.07156809, y: -0.02229937, z: 0.020786481}
+      rotation: {x: 0.043721966, y: -0.020238157, z: -0.06421697, w: 0.9967723}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Yusuke2:LeftLeg
+      parentName: Yusuke2:LeftUpLeg
+      position: {x: -1.1368679e-16, y: -0.0047014547, z: -0.5387334}
+      rotation: {x: -0.18053447, y: 0.008755456, z: -0.005728027, w: 0.98351306}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Yusuke2:LeftFoot
+      parentName: Yusuke2:LeftLeg
+      position: {x: 9.220059e-12, y: -0.02071202, z: -0.39520898}
+      rotation: {x: 0.087700844, y: 0.016536785, z: -0.00872787, w: 0.9959714}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Yusuke2:LeftToeBase
+      parentName: Yusuke2:LeftFoot
+      position: {x: 0.000000001578929, y: 0.1070133, z: -0.06911529}
+      rotation: {x: 6.3082824e-18, y: -1.6985648e-18, z: -2.29301e-25, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Yusuke2:RightUpLeg
+      parentName: Yusuke2:Hips
+      position: {x: -0.07156809, y: -0.02229937, z: 0.020786481}
+      rotation: {x: 0.06428755, y: 0.03776322, z: 0.110420905, w: 0.9910844}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Yusuke2:RightLeg
+      parentName: Yusuke2:RightUpLeg
+      position: {x: -0, y: -0.0047813887, z: -0.5478929}
+      rotation: {x: -0.2656525, y: 0.010567771, z: -0.005681967, w: 0.9639942}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Yusuke2:RightFoot
+      parentName: Yusuke2:RightLeg
+      position: {x: -9.576765e-13, y: -0.02133425, z: -0.40708178}
+      rotation: {x: 0.15723144, y: -0.018329958, z: 0.007371089, w: 0.9873642}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Yusuke2:RightToeBase
+      parentName: Yusuke2:RightFoot
+      position: {x: -0.000000001027229, y: 0.1057015, z: -0.06339831}
+      rotation: {x: 8.1371e-19, y: 8.349422e-19, z: -1.3877785e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
